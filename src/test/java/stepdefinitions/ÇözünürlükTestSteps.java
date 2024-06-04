@@ -11,17 +11,17 @@ import java.util.Arrays;
 import java.util.List;
 
 
-public class ÇözünürlükTestSteps {
+public class ÇözünürlükTestSteps extends BaseStep{
 
-    private WebDriver driver;
+
 
     @When("Sayfa yüklenir")
     public void sayfa_yüklenir() {
-        driver.get("https://posbeta.narpos.com.tr/#/login");
+        DRIVER.get("https://posbeta.narpos.com.tr/#/login");
     }
 
     private void checkPageLayout(String specPath, Dimension dimension) {
-        checkLayout(driver, specPath, dimension, Arrays.asList("mobile", "tablet", "desktop"));
+        checkLayout(DRIVER, specPath, dimension, Arrays.asList("mobile", "tablet", "desktop"));
     }
 
 
@@ -68,12 +68,10 @@ public class ÇözünürlükTestSteps {
     public void sayfanın_responsivliği_kontrol_edilir(String deviceSize) {
         Dimension dimension = parseDimension(deviceSize);
         checkPageLayout("src/test/resources/testdata/login.gspec", dimension);
-        driver.quit();
     }
 
     @Given("Kullanıcı {} cihazını kullanarak web sitesini ziyaret eder")
     public void kullanıcı_cihazını_kullanarak_web_sitesini_ziyaret_eder(String deviceName) {
-        driver = new ChromeDriver();
         Dimension dimension;
         switch (deviceName) {
             case "Mobile":
@@ -88,8 +86,6 @@ public class ÇözünürlükTestSteps {
             default:
                 throw new IllegalArgumentException("Unsupported device: " + deviceName);
         }
-        driver.manage().window().setSize(dimension);
-
-
+        DRIVER.manage().window().setSize(dimension);
     }
 }

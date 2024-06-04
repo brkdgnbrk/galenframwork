@@ -91,7 +91,7 @@ public class LoginSteps extends BaseStep {
 
 	@When("I refresh the page")
 	public void i_refresh_the_page() {
-		driver.get("https://posbeta.narpos.com.tr/#/login");
+		DRIVER.get("https://posbeta.narpos.com.tr/#/login");
 		BrowserUtils.wait(2);
 	}
 

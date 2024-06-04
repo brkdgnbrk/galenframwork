@@ -30,7 +30,7 @@ public class DriverManager {
 				default -> new ChromeDriver();
 			};
 
-			driver.manage().window().maximize();
+//			driver.manage().window().maximize();
 			driver.get(ConfigurationManager.getProperty("baseURL"));
 			DRIVER_THREAD_LOCAL.set(driver);
 		}

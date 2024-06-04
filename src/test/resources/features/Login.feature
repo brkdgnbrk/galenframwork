@@ -37,13 +37,20 @@ Feature: Login to the website
       | TC05           | Log in with valid email and empty password | validEmail | emptyPassword |
 
   @RememberMe
-  Scenario: Remember Me button functionality
+  Scenario Outline: Remember Me button functionality for <deviceName>
+    Given Kullanıcı <deviceName> cihazını kullanarak web sitesini ziyaret eder
+    When Sayfa yüklenir
     When I enter valid email and password
     And I click on the Beni Hatırla checkbox
     And I click on the Giriş Yap button
     Then I should see the homepage
     When I refresh the page
     Then the Beni Hatırla checkbox should be selected
+    Examples:
+      | deviceName |
+      | Mobile     |
+      | Tablet     |
+      | Laptop     |
 
   @ForgotPassword
   Scenario: Forgot Password functionality
