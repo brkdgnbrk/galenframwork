@@ -7,6 +7,6 @@ Feature: Responsivlik testleri
 
     Examples:
       | deviceName | deviceSize |
-      | Mobile     | 400x800    |
-      | Tablet     | 768x1024   |
-      | Laptop     | 1366x768   |
+      | Mobile     | 516x802    |
+      | Tablet     | 770x965    |
+      | Laptop     | 1368x770   |

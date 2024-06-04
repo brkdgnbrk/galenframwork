@@ -5,6 +5,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.WebDriver;
 import utils.BrowserUtils;
 import utils.TestDataHelper;
 
@@ -90,7 +91,7 @@ public class LoginSteps extends BaseStep {
 
 	@When("I refresh the page")
 	public void i_refresh_the_page() {
-		DRIVER.get("https://posbeta.narpos.com.tr/#/login");
+		driver.get("https://posbeta.narpos.com.tr/#/login");
 		BrowserUtils.wait(2);
 	}
 

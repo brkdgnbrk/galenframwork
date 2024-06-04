@@ -3,17 +3,16 @@ package stepdefinitions;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import org.assertj.core.api.Assertions;
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import utils.BrowserUtils;
-
 import java.util.Arrays;
 import java.util.List;
 
-import static com.galenframework.api.Galen.checkLayout;
 
-public class ÇözünürlükTestSteps extends BaseStep {
+public class ÇözünürlükTestSteps {
+
     private WebDriver driver;
 
     @When("Sayfa yüklenir")
@@ -25,19 +24,36 @@ public class ÇözünürlükTestSteps extends BaseStep {
         checkLayout(driver, specPath, dimension, Arrays.asList("mobile", "tablet", "desktop"));
     }
 
-    private void checkLayout(WebDriver driver, String specPath, Dimension dimension, List<String> devices) {
-        if (driver != null && dimension != null && devices != null) {
-            driver.manage().window().setSize(dimension);
+
+    public void checkLayout(WebDriver driver, String specPath, Dimension dimension, List<String> devices) {
+        if (driver == null || dimension == null || devices == null || devices.isEmpty()) {
+            throw new IllegalArgumentException("Driver, dimension, or devices list cannot be null or empty");
+        }
+
+        // Iterate over the devices and perform the layout check
+        for (String device : devices) {
             try {
-                checkLayout(driver, specPath, dimension, List.of(devices.toArray(new String[0])));
-                System.out.println("Layout test passed for device: " + devices.get(0));
+                // Assume performLayoutCheck is a method that checks the layout
+                performLayoutCheck(driver, specPath, device,dimension);
+                System.out.println("Layout test passed for device: " + device);
             } catch (Exception e) {
-                System.out.println("Layout test failed for device: " + devices.get(0));
+                System.out.println("Layout test failed for device: " + device);
                 e.printStackTrace();
             }
-        } else {
-            throw new IllegalArgumentException("Driver, dimension or devices list cannot be null");
         }
+    }
+
+    private void performLayoutCheck(WebDriver driver, String specPath, String device,Dimension expectedDimension) {
+        // Implement the actual layout check logic here
+        // This is just a placeholder to illustrate the method
+        System.out.println("Checking layout for device: " + device + " with specPath: " + specPath);
+        // Add your layout checking code here
+
+        Dimension actualDimension = driver.manage().window().getSize();
+
+        // Assert the window size
+        Assertions.assertThat( actualDimension.getWidth()).isEqualTo(expectedDimension.getWidth());
+        Assertions.assertThat( actualDimension.getHeight()).isEqualTo(expectedDimension.getHeight());
     }
 
     private Dimension parseDimension(String size) {

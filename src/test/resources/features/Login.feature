@@ -2,10 +2,18 @@ Feature: Login to the website
 
 
   @Positive
-  Scenario: Successful login with valid credentials
+  Scenario Outline: Successful login with valid credentials
+    Given Kullanıcı <deviceName> cihazını kullanarak web sitesini ziyaret eder
+    When Sayfa yüklenir
     When I enter valid email and password
     And I click on the Giriş Yap button
     Then I should see the homepage
+    Examples:
+      | deviceName |
+      | Mobile     |
+      | Tablet     |
+      | Laptop     |
+
 
   @Negative1
   Scenario Outline: <TestCaseNumber> - <TestCaseName>

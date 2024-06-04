@@ -36,19 +36,19 @@ public class Hooks {
 	 * details, and handling test retries for failed scenarios.
 	 * @param scenario the Cucumber scenario object
 	 */
-	@After
-	public void tearDown(Scenario scenario) {
-		if (scenario.isFailed()) {
-			TakesScreenshot takesScreenshot = (TakesScreenshot) DriverManager.getDriver();
-			byte[] image = takesScreenshot.getScreenshotAs(OutputType.BYTES);
-			BrowserUtils.getScreenshot(scenario.getName());
-			scenario.attach(image, "image/png", scenario.getName());
-			LOGGER.error("Test scenario ->>> ->>>>> Failed " + scenario.getName());
-		}
-		else {
-			LOGGER.info("Test scenario -->>> ->>>> Passed");
-		}
-		DriverManager.closeDriver();
-	}
+//	@After
+//	public void tearDown(Scenario scenario) {
+//		if (scenario.isFailed()) {
+//			TakesScreenshot takesScreenshot = (TakesScreenshot) DriverManager.getDriver();
+//			byte[] image = takesScreenshot.getScreenshotAs(OutputType.BYTES);
+//			BrowserUtils.getScreenshot(scenario.getName());
+//			scenario.attach(image, "image/png", scenario.getName());
+//			LOGGER.error("Test scenario ->>> ->>>>> Failed " + scenario.getName());
+//		}
+//		else {
+//			LOGGER.info("Test scenario -->>> ->>>> Passed");
+//		}
+//		DriverManager.closeDriver();
+//	}
 
 }
