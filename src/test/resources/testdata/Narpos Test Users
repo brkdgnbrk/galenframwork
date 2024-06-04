@@ -1,0 +1,4 @@
+validEmail=admin
+validPassword=1234
+invalidEmail=invalidmail@gmail.com
+invalidPassword=9876

@@ -1,0 +1,1241 @@
+2024-06-02 17:02:43.248 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart3.xml.rels
+2024-06-02 17:02:43.262 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart4.xml.rels
+2024-06-02 17:02:43.265 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart5.xml.rels
+2024-06-02 17:02:43.267 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart7.xml.rels
+2024-06-02 17:02:43.269 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart10.xml.rels
+2024-06-02 17:02:43.271 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing1.xml.rels
+2024-06-02 17:02:43.274 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing5.xml.rels
+2024-06-02 17:02:43.276 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing7.xml.rels
+2024-06-02 17:02:43.279 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing8.xml.rels
+2024-06-02 17:02:43.281 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing10.xml.rels
+2024-06-02 17:02:43.282 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing11.xml.rels
+2024-06-02 17:02:43.284 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/externalLinks/_rels/externalLink1.xml.rels
+2024-06-02 17:02:43.285 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/externalLinks/_rels/externalLink2.xml.rels
+2024-06-02 17:02:43.288 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-06-02 17:02:43.290 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-06-02 17:02:43.291 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2024-06-02 17:02:43.292 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2024-06-02 17:02:43.293 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+2024-06-02 17:02:43.295 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+2024-06-02 17:02:43.296 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2024-06-02 17:02:43.297 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+2024-06-02 17:02:43.298 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+2024-06-02 17:02:43.298 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+2024-06-02 17:02:43.761 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-02 17:02:43.801 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-02 17:02:43.802 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-02 17:02:43.802 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-02 17:02:43.804 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-02 17:02:43.813 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-02 17:02:43.814 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-02 17:02:43.820 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-02 17:02:43.837 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-02 17:02:43.837 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-02 17:02:43.839 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-02 17:02:43.846 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-02 17:02:43.853 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-02 17:02:44.604 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:562 - Save content types part
+2024-06-02 17:02:44.738 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:566 - Save package relationships
+2024-06-02 17:02:44.744 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'docProps/app.xml'
+2024-06-02 17:02:44.746 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'docProps/core.xml'
+2024-06-02 17:02:44.750 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart1.xml'
+2024-06-02 17:02:44.751 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart2.xml'
+2024-06-02 17:02:44.752 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart3.xml'
+2024-06-02 17:02:44.754 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart4.xml'
+2024-06-02 17:02:44.756 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart5.xml'
+2024-06-02 17:02:44.758 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart6.xml'
+2024-06-02 17:02:44.759 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart7.xml'
+2024-06-02 17:02:44.761 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart8.xml'
+2024-06-02 17:02:44.761 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart9.xml'
+2024-06-02 17:02:44.762 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart10.xml'
+2024-06-02 17:02:44.763 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart11.xml'
+2024-06-02 17:02:44.764 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart12.xml'
+2024-06-02 17:02:44.764 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/comments1.xml'
+2024-06-02 17:02:44.766 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing1.xml'
+2024-06-02 17:02:44.768 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing2.xml'
+2024-06-02 17:02:44.768 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing3.xml'
+2024-06-02 17:02:44.769 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing4.xml'
+2024-06-02 17:02:44.769 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing5.xml'
+2024-06-02 17:02:44.771 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing6.xml'
+2024-06-02 17:02:44.772 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing8.xml'
+2024-06-02 17:02:44.773 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing9.xml'
+2024-06-02 17:02:44.775 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/vmlDrawing1.vml'
+2024-06-02 17:02:44.776 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/externalLinks/externalLink1.xml'
+2024-06-02 17:02:44.778 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/externalLinks/externalLink2.xml'
+2024-06-02 17:02:44.780 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings1.bin'
+2024-06-02 17:02:44.781 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings2.bin'
+2024-06-02 17:02:44.781 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings4.bin'
+2024-06-02 17:02:44.782 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings5.bin'
+2024-06-02 17:02:44.782 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings8.bin'
+2024-06-02 17:02:44.783 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/sharedStrings.xml'
+2024-06-02 17:02:44.784 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/styles.xml'
+2024-06-02 17:02:44.784 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/theme/theme1.xml'
+2024-06-02 17:02:44.784 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/workbook.xml'
+2024-06-02 17:02:44.787 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet1.xml'
+2024-06-02 17:02:44.788 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet2.xml'
+2024-06-02 17:02:44.792 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet4.xml'
+2024-06-02 17:02:44.794 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet5.xml'
+2024-06-02 17:02:44.795 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet8.xml'
+2024-06-02 17:04:26.851 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart3.xml.rels
+2024-06-02 17:04:26.863 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart4.xml.rels
+2024-06-02 17:04:26.866 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart5.xml.rels
+2024-06-02 17:04:26.867 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart7.xml.rels
+2024-06-02 17:04:26.868 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart10.xml.rels
+2024-06-02 17:04:26.870 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing1.xml.rels
+2024-06-02 17:04:26.871 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing5.xml.rels
+2024-06-02 17:04:26.872 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing7.xml.rels
+2024-06-02 17:04:26.874 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing8.xml.rels
+2024-06-02 17:04:26.875 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing10.xml.rels
+2024-06-02 17:04:26.876 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing11.xml.rels
+2024-06-02 17:04:26.877 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/externalLinks/_rels/externalLink1.xml.rels
+2024-06-02 17:04:26.879 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/externalLinks/_rels/externalLink2.xml.rels
+2024-06-02 17:04:26.880 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-06-02 17:04:26.882 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-06-02 17:04:26.884 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2024-06-02 17:04:26.884 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2024-06-02 17:04:26.886 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+2024-06-02 17:04:26.887 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+2024-06-02 17:04:26.889 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2024-06-02 17:04:26.890 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+2024-06-02 17:04:26.892 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+2024-06-02 17:04:26.893 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+2024-06-02 17:04:27.298 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-02 17:04:27.337 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-02 17:04:27.337 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-02 17:04:27.337 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-02 17:04:27.339 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-02 17:04:27.349 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-02 17:04:27.349 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-02 17:04:27.353 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-02 17:04:27.361 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-02 17:04:27.361 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-02 17:04:27.362 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-02 17:04:27.367 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-02 17:04:27.376 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-02 17:04:27.956 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:562 - Save content types part
+2024-06-02 17:04:28.096 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:566 - Save package relationships
+2024-06-02 17:04:28.102 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'docProps/app.xml'
+2024-06-02 17:04:28.103 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'docProps/core.xml'
+2024-06-02 17:04:28.108 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart1.xml'
+2024-06-02 17:04:28.109 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart2.xml'
+2024-06-02 17:04:28.110 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart3.xml'
+2024-06-02 17:04:28.112 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart4.xml'
+2024-06-02 17:04:28.114 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart5.xml'
+2024-06-02 17:04:28.116 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart6.xml'
+2024-06-02 17:04:28.116 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart7.xml'
+2024-06-02 17:04:28.118 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart8.xml'
+2024-06-02 17:04:28.119 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart9.xml'
+2024-06-02 17:04:28.120 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart10.xml'
+2024-06-02 17:04:28.122 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart11.xml'
+2024-06-02 17:04:28.122 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart12.xml'
+2024-06-02 17:04:28.122 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/comments1.xml'
+2024-06-02 17:04:28.123 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing1.xml'
+2024-06-02 17:04:28.126 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing2.xml'
+2024-06-02 17:04:28.126 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing3.xml'
+2024-06-02 17:04:28.127 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing4.xml'
+2024-06-02 17:04:28.127 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing5.xml'
+2024-06-02 17:04:28.131 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing6.xml'
+2024-06-02 17:04:28.132 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing8.xml'
+2024-06-02 17:04:28.139 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing9.xml'
+2024-06-02 17:04:28.140 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/vmlDrawing1.vml'
+2024-06-02 17:04:28.141 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/externalLinks/externalLink1.xml'
+2024-06-02 17:04:28.143 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/externalLinks/externalLink2.xml'
+2024-06-02 17:04:28.143 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings1.bin'
+2024-06-02 17:04:28.145 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings2.bin'
+2024-06-02 17:04:28.145 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings4.bin'
+2024-06-02 17:04:28.146 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings5.bin'
+2024-06-02 17:04:28.146 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings8.bin'
+2024-06-02 17:04:28.147 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/sharedStrings.xml'
+2024-06-02 17:04:28.147 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/styles.xml'
+2024-06-02 17:04:28.147 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/theme/theme1.xml'
+2024-06-02 17:04:28.148 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/workbook.xml'
+2024-06-02 17:04:28.151 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet1.xml'
+2024-06-02 17:04:28.153 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet2.xml'
+2024-06-02 17:04:28.156 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet4.xml'
+2024-06-02 17:04:28.159 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet5.xml'
+2024-06-02 17:04:28.160 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet8.xml'
+2024-06-02 17:39:38.417 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 17:39:38.421 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-02 17:39:38.422 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 17:39:59.694 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Successful login with valid credentials
+2024-06-02 17:41:54.329 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 17:41:54.333 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-02 17:41:54.334 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 17:42:12.525 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Successful login with valid credentials
+2024-06-02 17:44:31.761 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 17:44:31.767 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-02 17:44:31.770 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 17:44:55.500 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Successful login with valid credentials
+2024-06-02 17:46:55.165 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 17:46:55.169 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-02 17:46:55.170 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 17:47:14.930 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Successful login with valid credentials
+2024-06-02 18:03:25.171 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:03:25.175 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-02 18:03:25.176 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:03:46.137 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Successful login with valid credentials
+2024-06-02 18:06:33.596 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:06:33.599 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-02 18:06:33.600 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:06:53.039 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Successful login with valid credentials
+2024-06-02 18:15:02.922 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:15:02.926 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-02 18:15:02.929 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:15:25.086 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Successful login with valid credentials
+2024-06-02 18:20:08.211 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:20:08.214 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-02 18:20:08.215 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:20:17.431 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Successful login with valid credentials
+2024-06-02 18:21:53.315 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:21:53.319 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-02 18:21:53.320 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:22:05.812 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Successful login with valid credentials
+2024-06-02 18:22:49.812 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:22:49.816 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-02 18:22:49.817 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:23:00.614 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Successful login with valid credentials
+2024-06-02 18:25:33.289 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:25:33.293 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-02 18:25:33.295 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:25:43.734 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Successful login with valid credentials
+2024-06-02 18:27:35.291 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:27:35.294 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-02 18:27:35.295 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:27:44.661 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Successful login with valid credentials
+2024-06-02 18:28:12.987 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:28:12.992 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-02 18:28:12.993 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:28:22.690 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-02 18:29:00.775 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:29:00.779 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-02 18:29:00.780 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:29:11.023 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-02 18:53:25.417 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:53:25.420 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-02 18:53:25.421 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:53:33.866 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-02 18:54:01.617 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:54:01.620 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-02 18:54:01.622 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:54:10.611 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 18:54:11.012 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 18:54:21.580 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC01 - Log in with invalid email and invalid password
+2024-06-02 18:54:21.859 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:54:21.861 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-02 18:54:21.861 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:54:30.074 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 18:54:30.509 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 18:54:40.936 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC02 - Log in with invalid email and valid password
+2024-06-02 18:54:41.164 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:54:41.164 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-02 18:54:41.164 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:54:47.054 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 18:54:47.079 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:54:47.080 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC04 - Log in with empty email and valid password
+2024-06-02 18:54:47.081 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:54:47.093 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 18:54:47.135 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:54:47.135 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC05 - Log in with valid email and empty password
+2024-06-02 18:54:47.136 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:54:47.144 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 18:55:12.054 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:55:12.058 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-02 18:55:12.059 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:55:23.177 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 18:55:23.641 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 18:55:34.323 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC01 - Log in with invalid email and invalid password
+2024-06-02 18:55:34.600 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:55:34.601 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-02 18:55:34.601 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:55:45.077 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 18:55:45.556 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 18:55:46.173 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-02 18:55:46.355 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:55:46.355 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-02 18:55:46.356 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:55:55.799 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 18:55:56.176 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 18:56:06.765 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC03 - Log in with valid email and invalid password
+2024-06-02 18:56:06.994 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:56:06.994 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC04 - Log in with empty email and valid password
+2024-06-02 18:56:06.994 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:56:08.732 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 18:56:18.502 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 18:56:29.119 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC04 - Log in with empty email and valid password
+2024-06-02 18:56:29.366 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:56:29.366 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC05 - Log in with valid email and empty password
+2024-06-02 18:56:29.366 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:56:38.656 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 18:56:39.108 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 18:56:49.682 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC05 - Log in with valid email and empty password
+2024-06-02 18:59:28.260 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:59:28.263 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-02 18:59:28.264 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:59:37.686 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 18:59:38.118 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 18:59:47.712 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:59:47.713 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-02 18:59:47.713 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:59:47.726 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 18:59:47.766 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 18:59:47.767 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-02 18:59:47.767 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 18:59:47.776 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 19:01:07.596 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 19:01:07.599 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-02 19:01:07.600 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 19:01:18.574 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 19:01:19.082 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 19:01:29.729 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC01 - Log in with invalid email and invalid password
+2024-06-02 19:01:29.990 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 19:01:29.990 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-02 19:01:29.991 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 19:01:39.502 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 19:01:40.042 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 19:01:40.588 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-02 19:01:40.773 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 19:01:40.774 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-02 19:01:40.774 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 19:01:51.142 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 19:01:51.590 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 19:04:15.778 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 19:04:15.782 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-02 19:04:15.784 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 19:04:24.939 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 19:04:25.377 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 19:04:27.201 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 19:04:27.202 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-02 19:04:27.203 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 19:04:27.214 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 19:04:27.250 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 19:04:27.250 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-02 19:04:27.250 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 19:04:27.262 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 19:05:01.471 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 19:05:01.475 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-02 19:05:01.477 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 19:05:10.720 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 19:05:11.173 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 19:05:21.815 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC01 - Log in with invalid email and invalid password
+2024-06-02 19:05:22.070 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 19:05:22.070 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-02 19:05:22.070 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 19:05:23.917 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 19:05:32.766 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 19:05:33.397 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-02 19:05:33.582 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 19:05:33.583 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-02 19:05:33.583 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 19:05:42.256 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 19:05:42.641 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 19:05:53.257 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC03 - Log in with valid email and invalid password
+2024-06-02 21:40:38.397 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 21:40:38.404 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-02 21:40:38.407 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 21:40:50.396 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 21:40:51.026 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 21:40:56.718 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 21:40:56.718 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-02 21:40:56.719 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 21:40:56.732 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 21:40:56.782 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 21:40:56.784 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-02 21:40:56.785 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 21:40:56.805 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 21:42:15.877 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 21:42:15.882 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-02 21:42:15.884 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 21:42:26.380 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 21:42:27.088 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 21:42:37.950 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC01 - Log in with invalid email and invalid password
+2024-06-02 21:42:38.267 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 21:42:38.268 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-02 21:42:38.268 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 21:42:47.896 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 21:42:48.599 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 21:42:49.386 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-02 21:42:49.637 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 21:42:49.639 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-02 21:42:49.639 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 21:42:59.587 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 21:43:00.418 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 21:43:11.154 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC03 - Log in with valid email and invalid password
+2024-06-02 21:45:54.938 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 21:45:54.942 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-02 21:45:54.943 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 21:46:05.978 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 21:46:07.229 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC01 - Log in with invalid email and invalid password
+2024-06-02 21:46:07.506 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 21:46:07.506 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-02 21:46:07.506 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 21:46:17.812 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 21:46:18.674 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 21:46:19.516 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-02 21:46:19.740 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 21:46:19.741 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-02 21:46:19.741 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 21:46:28.798 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 21:46:29.620 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC03 - Log in with valid email and invalid password
+2024-06-02 21:47:11.440 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 21:47:11.449 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-02 21:47:11.451 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 21:47:22.897 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 21:47:23.819 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 21:47:34.840 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC01 - Log in with invalid email and invalid password
+2024-06-02 21:47:35.168 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 21:47:35.169 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-02 21:47:35.169 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 21:47:45.848 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 21:47:46.605 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 21:47:47.506 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-02 21:47:47.782 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 21:47:47.782 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-02 21:47:47.784 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 21:47:56.869 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 21:47:57.535 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 21:48:08.254 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC03 - Log in with valid email and invalid password
+2024-06-02 21:55:06.118 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 21:55:06.122 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-02 21:55:06.124 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 21:55:16.360 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 21:55:17.199 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 21:55:28.075 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC01 - Log in with invalid email and invalid password
+2024-06-02 21:55:28.387 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 21:55:28.387 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-02 21:55:28.388 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 21:55:39.441 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 21:55:40.223 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 21:55:40.979 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-02 21:55:41.211 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 21:55:41.213 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-02 21:55:41.213 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 21:55:51.901 [main] DEBUG stepdefinitions.LoginSteps:67 - Email and password read from Narpos Test Users file
+2024-06-02 21:55:52.687 [main] DEBUG stepdefinitions.LoginSteps:69 - Username and password entered
+2024-06-02 21:56:03.546 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC03 - Log in with valid email and invalid password
+2024-06-02 21:59:15.179 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 21:59:15.184 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-02 21:59:15.187 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 21:59:25.550 [main] DEBUG stepdefinitions.LoginSteps:68 - Email and password read from Narpos Test Users file
+2024-06-02 21:59:26.391 [main] DEBUG stepdefinitions.LoginSteps:70 - Username and password entered
+2024-06-02 21:59:39.471 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC01 - Log in with invalid email and invalid password
+2024-06-02 21:59:39.800 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 21:59:39.800 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-02 21:59:39.801 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 21:59:48.469 [main] DEBUG stepdefinitions.LoginSteps:68 - Email and password read from Narpos Test Users file
+2024-06-02 21:59:48.504 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 21:59:48.507 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-02 21:59:48.508 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 21:59:48.520 [main] DEBUG stepdefinitions.LoginSteps:68 - Email and password read from Narpos Test Users file
+2024-06-02 22:00:04.247 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 22:00:04.255 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-02 22:00:04.261 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 22:00:14.247 [main] DEBUG stepdefinitions.LoginSteps:68 - Email and password read from Narpos Test Users file
+2024-06-02 22:00:14.951 [main] DEBUG stepdefinitions.LoginSteps:70 - Username and password entered
+2024-06-02 22:00:17.417 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-02 22:00:17.655 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 22:00:17.657 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-02 22:00:17.658 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 22:00:27.664 [main] DEBUG stepdefinitions.LoginSteps:68 - Email and password read from Narpos Test Users file
+2024-06-02 22:00:28.465 [main] DEBUG stepdefinitions.LoginSteps:70 - Username and password entered
+2024-06-02 22:00:31.031 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-02 22:00:31.274 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 22:00:31.274 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-02 22:00:31.275 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 22:00:42.519 [main] DEBUG stepdefinitions.LoginSteps:68 - Email and password read from Narpos Test Users file
+2024-06-02 22:00:43.229 [main] DEBUG stepdefinitions.LoginSteps:70 - Username and password entered
+2024-06-02 22:00:45.756 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-02 22:01:21.812 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 22:01:21.818 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-02 22:01:21.819 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 22:01:32.747 [main] DEBUG stepdefinitions.LoginSteps:68 - Email and password read from Narpos Test Users file
+2024-06-02 22:01:33.579 [main] DEBUG stepdefinitions.LoginSteps:70 - Username and password entered
+2024-06-02 22:01:46.494 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC01 - Log in with invalid email and invalid password
+2024-06-02 22:01:46.817 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 22:01:46.817 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-02 22:01:46.818 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 22:01:56.734 [main] DEBUG stepdefinitions.LoginSteps:68 - Email and password read from Narpos Test Users file
+2024-06-02 22:01:57.427 [main] DEBUG stepdefinitions.LoginSteps:70 - Username and password entered
+2024-06-02 22:01:59.832 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-02 22:02:00.072 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 22:02:00.074 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-02 22:02:00.074 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 22:02:10.263 [main] DEBUG stepdefinitions.LoginSteps:68 - Email and password read from Narpos Test Users file
+2024-06-02 22:02:10.919 [main] DEBUG stepdefinitions.LoginSteps:70 - Username and password entered
+2024-06-02 22:02:23.773 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC03 - Log in with valid email and invalid password
+2024-06-02 23:16:41.287 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 23:16:41.291 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-02 23:16:41.292 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 23:17:04.704 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Successful login with valid credentials
+2024-06-02 23:17:04.951 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 23:17:04.951 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-02 23:17:04.952 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 23:17:07.973 [main] DEBUG stepdefinitions.LoginSteps:68 - Email and password read from Narpos Test Users file
+2024-06-02 23:17:07.999 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 23:17:08.000 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-02 23:17:08.000 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 23:17:08.016 [main] DEBUG stepdefinitions.LoginSteps:68 - Email and password read from Narpos Test Users file
+2024-06-02 23:17:08.044 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 23:17:08.045 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-02 23:17:08.045 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 23:17:08.053 [main] DEBUG stepdefinitions.LoginSteps:68 - Email and password read from Narpos Test Users file
+2024-06-02 23:17:47.826 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 23:17:47.829 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-02 23:17:47.830 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 23:18:09.225 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Successful login with valid credentials
+2024-06-02 23:18:09.488 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 23:18:09.488 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-02 23:18:09.488 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 23:18:21.857 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-02 23:18:22.288 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-02 23:18:33.908 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC01 - Log in with invalid email and invalid password
+2024-06-02 23:18:34.142 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 23:18:34.142 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-02 23:18:34.144 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 23:18:45.806 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-02 23:18:46.268 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-02 23:18:47.505 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-02 23:18:47.721 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 23:18:47.722 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-02 23:18:47.722 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 23:18:55.898 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-02 23:18:56.293 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-02 23:19:07.888 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC03 - Log in with valid email and invalid password
+2024-06-02 23:22:25.012 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 23:22:25.014 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-02 23:22:25.015 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 23:22:45.312 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Successful login with valid credentials
+2024-06-02 23:22:45.596 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 23:22:45.596 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-02 23:22:45.597 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 23:22:56.010 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-02 23:22:56.502 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-02 23:23:08.140 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC01 - Log in with invalid email and invalid password
+2024-06-02 23:23:08.389 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 23:23:08.391 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-02 23:23:08.391 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 23:23:17.662 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-02 23:23:18.148 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-02 23:23:19.386 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-02 23:23:19.562 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 23:23:19.562 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-02 23:23:19.564 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 23:23:28.478 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-02 23:23:28.883 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-02 23:23:40.466 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC03 - Log in with valid email and invalid password
+2024-06-02 23:28:17.152 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 23:28:17.155 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-02 23:28:17.156 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 23:28:38.035 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Successful login with valid credentials
+2024-06-02 23:28:38.311 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 23:28:38.311 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-02 23:28:38.311 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 23:28:41.272 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-02 23:28:41.298 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 23:28:41.298 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-02 23:28:41.298 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 23:28:41.306 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-02 23:28:41.330 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 23:28:41.331 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-02 23:28:41.331 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 23:28:41.340 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-02 23:31:07.010 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 23:31:07.013 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-02 23:31:07.014 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 23:31:30.538 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Successful login with valid credentials
+2024-06-02 23:31:30.821 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 23:31:30.823 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-02 23:31:30.823 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 23:31:40.748 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-02 23:31:41.244 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-02 23:31:52.865 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC01 - Log in with invalid email and invalid password
+2024-06-02 23:31:53.059 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 23:31:53.060 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-02 23:31:53.060 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 23:32:00.072 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-02 23:32:00.567 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-02 23:32:01.767 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-02 23:32:01.944 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-02 23:32:01.945 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-02 23:32:01.945 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-02 23:32:10.681 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-02 23:32:11.129 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-02 23:32:22.714 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC03 - Log in with valid email and invalid password
+2024-06-03 00:05:25.510 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 00:05:25.514 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-03 00:05:25.515 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 00:05:37.756 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 00:05:49.570 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 00:05:49.573 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-03 00:05:49.573 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 00:05:58.726 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 00:06:14.537 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 00:06:14.540 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-03 00:06:14.541 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 00:06:23.315 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 00:06:23.747 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-03 00:06:35.458 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC01 - Log in with invalid email and invalid password
+2024-06-03 00:06:35.708 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 00:06:35.709 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-03 00:06:35.709 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 00:06:49.051 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 00:06:49.604 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-03 00:06:50.844 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 00:06:51.049 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 00:06:51.050 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-03 00:06:51.050 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 00:07:04.872 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 00:07:05.322 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-03 00:07:16.907 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC03 - Log in with valid email and invalid password
+2024-06-03 00:07:44.791 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 00:07:44.794 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-03 00:07:44.795 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 00:07:59.846 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 00:08:00.315 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-03 00:08:01.565 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 00:08:10.769 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 00:08:10.772 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-03 00:08:10.772 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 00:08:26.334 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 00:08:26.762 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-03 00:08:27.992 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 00:08:33.680 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 00:08:33.684 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-03 00:08:33.685 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 00:08:46.114 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 00:08:46.532 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-03 00:08:47.774 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 00:34:01.017 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 00:34:01.020 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-03 00:34:01.021 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 00:34:04.128 [main] DEBUG stepdefinitions.LoginSteps:68 - Email and password read from Narpos Test Users file
+2024-06-03 00:34:12.684 [main] DEBUG stepdefinitions.LoginSteps:70 - Username and password entered
+2024-06-03 00:34:13.959 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 00:34:14.181 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 00:34:14.181 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-03 00:34:14.182 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 00:34:22.407 [main] DEBUG stepdefinitions.LoginSteps:68 - Email and password read from Narpos Test Users file
+2024-06-03 00:34:22.837 [main] DEBUG stepdefinitions.LoginSteps:70 - Username and password entered
+2024-06-03 00:34:24.042 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 00:34:24.234 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 00:34:24.234 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-03 00:34:24.234 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 00:34:36.242 [main] DEBUG stepdefinitions.LoginSteps:68 - Email and password read from Narpos Test Users file
+2024-06-03 00:34:36.671 [main] DEBUG stepdefinitions.LoginSteps:70 - Username and password entered
+2024-06-03 00:34:37.910 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 00:34:38.128 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 00:34:38.129 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC04 - Log in with empty email and valid password
+2024-06-03 00:34:38.129 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 00:34:48.284 [main] DEBUG stepdefinitions.LoginSteps:68 - Email and password read from Narpos Test Users file
+2024-06-03 00:34:48.678 [main] DEBUG stepdefinitions.LoginSteps:70 - Username and password entered
+2024-06-03 00:34:48.807 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 00:34:48.979 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 00:34:48.979 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC05 - Log in with valid email and empty password
+2024-06-03 00:34:48.979 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 00:35:00.219 [main] DEBUG stepdefinitions.LoginSteps:68 - Email and password read from Narpos Test Users file
+2024-06-03 00:35:00.618 [main] DEBUG stepdefinitions.LoginSteps:70 - Username and password entered
+2024-06-03 00:35:11.179 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC05 - Log in with valid email and empty password
+2024-06-03 00:41:39.551 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 00:41:39.555 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-03 00:41:39.557 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 00:41:50.801 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 00:41:51.276 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-03 00:41:52.524 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 00:41:52.749 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 00:41:52.749 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-03 00:41:52.750 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 00:42:04.223 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 00:42:04.685 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-03 00:42:05.898 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 00:42:06.086 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 00:42:06.086 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-03 00:42:06.086 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 00:42:14.748 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 00:42:15.161 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-03 00:42:16.388 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 00:42:16.595 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 00:42:16.596 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC04 - Log in with empty email and valid password
+2024-06-03 00:42:16.596 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 00:42:27.137 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 00:42:27.599 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-03 00:42:27.715 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 00:42:27.888 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 00:42:27.888 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC05 - Log in with valid email and empty password
+2024-06-03 00:42:27.888 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 00:42:37.599 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 00:42:37.852 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-03 00:42:48.398 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC05 - Log in with valid email and empty password
+2024-06-03 00:44:26.541 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 00:44:26.544 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC05 - Log in with valid email and empty password
+2024-06-03 00:44:26.545 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 00:44:36.805 [main] DEBUG stepdefinitions.LoginSteps:70 - Email and password read from Narpos Test Users file
+2024-06-03 00:44:37.066 [main] DEBUG stepdefinitions.LoginSteps:72 - Username and password entered
+2024-06-03 00:44:47.613 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC05 - Log in with valid email and empty password
+2024-06-03 14:23:12.793 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 14:23:12.797 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC04 - Log in with empty email and valid password
+2024-06-03 14:23:12.799 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 14:23:16.312 [main] DEBUG stepdefinitions.LoginSteps:70 - Email and password read from Narpos Test Users file
+2024-06-03 14:23:23.768 [main] DEBUG stepdefinitions.LoginSteps:72 - Username and password entered
+2024-06-03 14:23:23.904 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 14:23:36.727 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 14:23:36.730 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC05 - Log in with valid email and empty password
+2024-06-03 14:23:36.732 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 14:23:49.681 [main] DEBUG stepdefinitions.LoginSteps:70 - Email and password read from Narpos Test Users file
+2024-06-03 14:23:49.925 [main] DEBUG stepdefinitions.LoginSteps:72 - Username and password entered
+2024-06-03 14:33:08.981 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 14:33:08.984 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC05 - Log in with valid email and empty password
+2024-06-03 14:33:08.985 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 14:33:17.853 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 14:33:18.144 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-03 14:33:28.700 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC05 - Log in with valid email and empty password
+2024-06-03 14:34:05.260 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 14:34:05.263 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC05 - Log in with valid email and empty password
+2024-06-03 14:34:05.264 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 14:34:16.116 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 14:34:16.455 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-03 14:34:27.005 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC05 - Log in with valid email and empty password
+2024-06-03 14:34:48.115 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 14:34:48.119 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC05 - Log in with valid email and empty password
+2024-06-03 14:34:48.121 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 14:34:58.344 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 14:34:58.625 [main] DEBUG stepdefinitions.LoginSteps:71 - Username and password entered
+2024-06-03 14:35:09.170 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC05 - Log in with valid email and empty password
+2024-06-03 14:39:00.963 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 14:39:00.967 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC05 - Log in with valid email and empty password
+2024-06-03 14:39:00.968 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 14:39:09.551 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 14:39:09.893 [main] DEBUG stepdefinitions.LoginSteps:76 - Username and password entered
+2024-06-03 14:39:20.513 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC05 - Log in with valid email and empty password
+2024-06-03 14:41:05.608 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 14:41:05.610 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC05 - Log in with valid email and empty password
+2024-06-03 14:41:05.612 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 14:41:16.293 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 14:41:16.681 [main] DEBUG stepdefinitions.LoginSteps:76 - Username and password entered
+2024-06-03 14:41:27.304 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC05 - Log in with valid email and empty password
+2024-06-03 14:41:59.472 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 14:41:59.474 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-03 14:41:59.475 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 14:42:10.195 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 14:42:10.405 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 14:42:10.406 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-03 14:42:10.406 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 14:42:22.726 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 14:42:23.185 [main] DEBUG stepdefinitions.LoginSteps:76 - Username and password entered
+2024-06-03 14:42:24.397 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 14:42:24.567 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 14:42:24.568 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-03 14:42:24.568 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 14:42:34.511 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 14:42:34.963 [main] DEBUG stepdefinitions.LoginSteps:76 - Username and password entered
+2024-06-03 14:42:36.176 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 14:42:36.392 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 14:42:36.393 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-03 14:42:36.393 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 14:42:45.982 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 14:42:46.384 [main] DEBUG stepdefinitions.LoginSteps:76 - Username and password entered
+2024-06-03 14:42:47.614 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 14:42:47.820 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 14:42:47.821 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC04 - Log in with empty email and valid password
+2024-06-03 14:42:47.821 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 14:42:57.114 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 14:42:57.502 [main] DEBUG stepdefinitions.LoginSteps:76 - Username and password entered
+2024-06-03 14:42:57.602 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 14:42:57.754 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 14:42:57.755 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC05 - Log in with valid email and empty password
+2024-06-03 14:42:57.755 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 14:43:07.786 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 14:43:08.163 [main] DEBUG stepdefinitions.LoginSteps:76 - Username and password entered
+2024-06-03 14:43:18.736 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC05 - Log in with valid email and empty password
+2024-06-03 14:44:01.308 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 14:44:01.312 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC05 - Log in with valid email and empty password
+2024-06-03 14:44:01.313 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 14:44:11.002 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 14:44:11.326 [main] DEBUG stepdefinitions.LoginSteps:76 - Username and password entered
+2024-06-03 14:44:21.914 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC05 - Log in with valid email and empty password
+2024-06-03 14:45:29.664 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 14:45:29.668 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC05 - Log in with valid email and empty password
+2024-06-03 14:45:29.669 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 14:45:39.809 [main] DEBUG stepdefinitions.LoginSteps:69 - Email and password read from Narpos Test Users file
+2024-06-03 14:45:40.164 [main] DEBUG stepdefinitions.LoginSteps:76 - Username and password entered
+2024-06-03 14:45:50.738 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed TC05 - Log in with valid email and empty password
+2024-06-03 14:50:42.055 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 14:50:42.059 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC05 - Log in with valid email and empty password
+2024-06-03 14:50:42.060 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 14:50:44.179 [main] DEBUG stepdefinitions.LoginSteps:58 - Email and password read from Narpos Test Users file
+2024-06-03 14:50:51.380 [main] DEBUG stepdefinitions.LoginSteps:66 - Username and password entered
+2024-06-03 14:51:11.621 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 14:52:02.238 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 14:52:02.242 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC05 - Log in with valid email and empty password
+2024-06-03 14:52:02.243 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 14:52:13.225 [main] DEBUG stepdefinitions.LoginSteps:58 - Email and password read from Narpos Test Users file
+2024-06-03 14:52:13.804 [main] DEBUG stepdefinitions.LoginSteps:64 - Username and password entered
+2024-06-03 14:52:34.051 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 15:01:37.693 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 15:01:37.695 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-03 15:01:37.697 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 15:01:50.313 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 15:02:20.055 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 15:02:20.057 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-03 15:02:20.058 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 15:02:28.471 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 15:02:28.474 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-03 15:02:28.475 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 15:02:31.297 [main] DEBUG stepdefinitions.LoginSteps:54 - Email and password read from Narpos Test Users file
+2024-06-03 15:03:26.736 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 15:03:26.739 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Remember Me button functionality
+2024-06-03 15:03:26.740 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 15:03:53.185 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Remember Me button functionality
+2024-06-03 15:05:20.842 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 15:05:20.844 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Remember Me button functionality
+2024-06-03 15:05:20.846 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 15:05:31.697 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Remember Me button functionality
+2024-06-03 15:06:30.960 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 15:06:30.963 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Remember Me button functionality
+2024-06-03 15:06:30.965 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 15:06:42.325 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Remember Me button functionality
+2024-06-03 15:07:58.855 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 15:07:58.858 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Remember Me button functionality
+2024-06-03 15:07:58.859 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 15:08:12.993 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Remember Me button functionality
+2024-06-03 15:10:25.693 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 15:10:25.696 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Remember Me button functionality
+2024-06-03 15:10:25.697 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 15:10:38.487 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 15:16:26.668 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 15:16:26.671 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Forgot Password functionality
+2024-06-03 15:16:26.671 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 15:16:34.692 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 22:55:46.239 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 22:55:46.243 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 22:55:46.244 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 22:56:01.320 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Masa işlemleri adımları
+2024-06-03 22:56:40.526 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 22:56:40.530 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 22:56:40.531 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 22:57:29.931 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 22:57:29.935 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 22:57:29.936 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 22:57:58.148 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Masa işlemleri adımları
+2024-06-03 23:02:17.872 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 23:02:17.875 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 23:02:17.875 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 23:02:46.257 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Masa işlemleri adımları
+2024-06-03 23:04:15.801 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 23:04:15.805 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 23:04:15.805 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 23:04:45.749 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Masa işlemleri adımları
+2024-06-03 23:05:32.344 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 23:05:32.348 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 23:05:32.349 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 23:06:03.137 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Masa işlemleri adımları
+2024-06-03 23:08:22.153 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 23:08:22.157 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 23:08:22.158 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 23:08:47.865 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Masa işlemleri adımları
+2024-06-03 23:10:35.427 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 23:10:35.431 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 23:10:35.432 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 23:11:04.477 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Masa işlemleri adımları
+2024-06-03 23:13:39.865 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 23:13:39.869 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 23:13:39.871 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 23:13:58.555 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Masa işlemleri adımları
+2024-06-03 23:15:27.847 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 23:15:27.851 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 23:15:27.853 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 23:15:51.236 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Masa işlemleri adımları
+2024-06-03 23:17:49.519 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 23:17:49.522 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 23:17:49.524 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 23:18:15.647 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Masa işlemleri adımları
+2024-06-03 23:19:44.224 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 23:19:44.226 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 23:19:44.228 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 23:20:10.383 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Masa işlemleri adımları
+2024-06-03 23:21:47.736 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 23:21:47.739 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 23:21:47.740 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 23:22:19.595 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Masa işlemleri adımları
+2024-06-03 23:23:51.901 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 23:23:51.905 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 23:23:51.906 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 23:24:29.463 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Masa işlemleri adımları
+2024-06-03 23:25:20.257 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 23:25:20.261 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 23:25:20.262 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 23:25:42.595 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Masa işlemleri adımları
+2024-06-03 23:25:49.192 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 23:25:49.197 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 23:25:49.198 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 23:26:13.273 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Masa işlemleri adımları
+2024-06-03 23:26:55.819 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 23:26:55.822 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 23:26:55.823 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 23:27:34.581 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Masa işlemleri adımları
+2024-06-03 23:28:51.044 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 23:28:51.048 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 23:28:51.048 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 23:29:47.599 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 23:29:47.604 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 23:29:47.605 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 23:30:24.736 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Masa işlemleri adımları
+2024-06-03 23:45:03.017 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 23:45:03.020 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 23:45:03.022 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 23:45:58.081 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 23:45:58.084 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 23:45:58.085 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 23:46:27.600 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-03 23:50:49.340 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 23:50:49.343 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 23:50:49.343 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 23:51:29.423 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Masa işlemleri adımları
+2024-06-03 23:53:37.093 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 23:53:37.096 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 23:53:37.097 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 23:57:48.212 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-03 23:57:48.215 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-03 23:57:48.216 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-03 23:58:20.278 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 01:43:58.308 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 01:43:58.311 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-04 01:43:58.313 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 01:44:30.805 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 01:44:31.027 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 01:44:31.027 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-04 01:44:31.027 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 01:44:49.298 [main] DEBUG stepdefinitions.LoginSteps:57 - Email and password read from Narpos Test Users file
+2024-06-04 01:44:49.538 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 01:44:49.538 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-04 01:44:49.540 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 01:44:49.552 [main] DEBUG stepdefinitions.LoginSteps:57 - Email and password read from Narpos Test Users file
+2024-06-04 01:44:49.597 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 01:44:49.597 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-04 01:44:49.598 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 01:44:49.614 [main] DEBUG stepdefinitions.LoginSteps:57 - Email and password read from Narpos Test Users file
+2024-06-04 01:44:49.650 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 01:44:49.650 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC04 - Log in with empty email and valid password
+2024-06-04 01:44:49.650 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 01:44:49.662 [main] DEBUG stepdefinitions.LoginSteps:57 - Email and password read from Narpos Test Users file
+2024-06-04 01:44:49.691 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 01:44:49.692 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC05 - Log in with valid email and empty password
+2024-06-04 01:44:49.692 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 01:44:49.705 [main] DEBUG stepdefinitions.LoginSteps:57 - Email and password read from Narpos Test Users file
+2024-06-04 01:44:49.733 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 01:44:49.734 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Remember Me button functionality
+2024-06-04 01:44:49.734 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 01:44:49.775 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 01:44:49.775 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Forgot Password functionality
+2024-06-04 01:44:49.775 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 01:44:49.830 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 01:44:49.830 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-04 01:44:49.831 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 01:44:51.081 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart4.xml.rels
+2024-06-04 01:44:51.088 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart5.xml.rels
+2024-06-04 01:44:51.090 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart6.xml.rels
+2024-06-04 01:44:51.092 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart8.xml.rels
+2024-06-04 01:44:51.094 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart11.xml.rels
+2024-06-04 01:44:51.097 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing1.xml.rels
+2024-06-04 01:44:51.099 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing5.xml.rels
+2024-06-04 01:44:51.101 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing7.xml.rels
+2024-06-04 01:44:51.103 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing8.xml.rels
+2024-06-04 01:44:51.104 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing10.xml.rels
+2024-06-04 01:44:51.105 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing11.xml.rels
+2024-06-04 01:44:51.107 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-06-04 01:44:51.110 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-06-04 01:44:51.112 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2024-06-04 01:44:51.114 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2024-06-04 01:44:51.115 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+2024-06-04 01:44:51.118 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+2024-06-04 01:44:51.119 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2024-06-04 01:44:51.121 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+2024-06-04 01:44:51.122 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+2024-06-04 01:44:51.124 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+2024-06-04 01:44:51.854 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-04 01:44:51.916 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-04 01:44:51.917 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-04 01:44:51.917 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-04 01:44:51.918 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-04 01:44:51.931 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-04 01:44:51.931 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-04 01:44:51.939 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-04 01:44:51.952 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-04 01:44:51.953 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-04 01:44:51.953 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-04 01:44:51.963 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-04 01:44:51.971 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-04 01:44:53.229 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:562 - Save content types part
+2024-06-04 01:44:53.436 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:566 - Save package relationships
+2024-06-04 01:44:53.447 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'docProps/app.xml'
+2024-06-04 01:44:53.448 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'docProps/core.xml'
+2024-06-04 01:44:53.454 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart1.xml'
+2024-06-04 01:44:53.455 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart2.xml'
+2024-06-04 01:44:53.457 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart3.xml'
+2024-06-04 01:44:53.458 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart4.xml'
+2024-06-04 01:44:53.461 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart5.xml'
+2024-06-04 01:44:53.464 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart6.xml'
+2024-06-04 01:44:53.468 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart7.xml'
+2024-06-04 01:44:53.468 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart8.xml'
+2024-06-04 01:44:53.471 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart9.xml'
+2024-06-04 01:44:53.472 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart10.xml'
+2024-06-04 01:44:53.473 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart11.xml'
+2024-06-04 01:44:53.477 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart12.xml'
+2024-06-04 01:44:53.478 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart13.xml'
+2024-06-04 01:44:53.479 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing1.xml'
+2024-06-04 01:44:53.482 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing2.xml'
+2024-06-04 01:44:53.483 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing3.xml'
+2024-06-04 01:44:53.485 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing4.xml'
+2024-06-04 01:44:53.485 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing5.xml'
+2024-06-04 01:44:53.489 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing6.xml'
+2024-06-04 01:44:53.490 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing7.xml'
+2024-06-04 01:44:53.493 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing8.xml'
+2024-06-04 01:44:53.497 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing9.xml'
+2024-06-04 01:44:53.498 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings1.bin'
+2024-06-04 01:44:53.499 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings2.bin'
+2024-06-04 01:44:53.499 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings3.bin'
+2024-06-04 01:44:53.500 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings4.bin'
+2024-06-04 01:44:53.502 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings5.bin'
+2024-06-04 01:44:53.502 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings8.bin'
+2024-06-04 01:44:53.502 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/sharedStrings.xml'
+2024-06-04 01:44:53.503 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/styles.xml'
+2024-06-04 01:44:53.503 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/theme/theme1.xml'
+2024-06-04 01:44:53.505 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/workbook.xml'
+2024-06-04 01:44:53.509 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet1.xml'
+2024-06-04 01:44:53.513 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet2.xml'
+2024-06-04 01:44:53.515 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet3.xml'
+2024-06-04 01:44:53.521 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet4.xml'
+2024-06-04 01:44:53.523 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet5.xml'
+2024-06-04 01:44:53.527 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet8.xml'
+2024-06-04 01:45:41.654 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 01:45:41.657 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-04 01:45:41.659 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 01:46:00.117 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 01:46:00.330 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 01:46:00.331 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-04 01:46:00.331 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 01:46:14.792 [main] DEBUG stepdefinitions.LoginSteps:57 - Email and password read from Narpos Test Users file
+2024-06-04 01:46:15.291 [main] DEBUG stepdefinitions.LoginSteps:63 - Username and password entered
+2024-06-04 01:46:16.540 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 01:46:16.704 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 01:46:16.705 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-04 01:46:16.705 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 01:46:19.316 [main] DEBUG stepdefinitions.LoginSteps:57 - Email and password read from Narpos Test Users file
+2024-06-04 01:46:35.512 [main] DEBUG stepdefinitions.LoginSteps:63 - Username and password entered
+2024-06-04 01:46:36.737 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 01:46:36.914 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 01:46:36.915 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-04 01:46:36.915 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 01:46:54.333 [main] DEBUG stepdefinitions.LoginSteps:57 - Email and password read from Narpos Test Users file
+2024-06-04 01:46:54.767 [main] DEBUG stepdefinitions.LoginSteps:63 - Username and password entered
+2024-06-04 01:46:55.988 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 01:46:56.178 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 01:46:56.179 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC04 - Log in with empty email and valid password
+2024-06-04 01:46:56.179 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 01:47:11.618 [main] DEBUG stepdefinitions.LoginSteps:57 - Email and password read from Narpos Test Users file
+2024-06-04 01:47:11.915 [main] DEBUG stepdefinitions.LoginSteps:63 - Username and password entered
+2024-06-04 01:47:12.032 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 01:47:12.266 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 01:47:12.266 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC05 - Log in with valid email and empty password
+2024-06-04 01:47:12.266 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 01:47:14.907 [main] DEBUG stepdefinitions.LoginSteps:57 - Email and password read from Narpos Test Users file
+2024-06-04 01:47:27.941 [main] DEBUG stepdefinitions.LoginSteps:63 - Username and password entered
+2024-06-04 01:47:48.148 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 01:47:48.378 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 01:47:48.378 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Remember Me button functionality
+2024-06-04 01:47:48.378 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 01:48:10.494 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 01:48:10.725 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 01:48:10.725 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Forgot Password functionality
+2024-06-04 01:48:10.726 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 01:48:25.377 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 01:48:25.521 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 01:48:25.521 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-04 01:48:25.521 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 01:49:00.061 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 01:49:01.420 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart1.xml.rels
+2024-06-04 01:49:01.428 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart2.xml.rels
+2024-06-04 01:49:01.430 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart3.xml.rels
+2024-06-04 01:49:01.432 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart5.xml.rels
+2024-06-04 01:49:01.434 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart8.xml.rels
+2024-06-04 01:49:01.436 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing1.xml.rels
+2024-06-04 01:49:01.439 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing5.xml.rels
+2024-06-04 01:49:01.441 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing7.xml.rels
+2024-06-04 01:49:01.442 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing8.xml.rels
+2024-06-04 01:49:01.444 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing10.xml.rels
+2024-06-04 01:49:01.445 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing11.xml.rels
+2024-06-04 01:49:01.447 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/externalLinks/_rels/externalLink1.xml.rels
+2024-06-04 01:49:01.447 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-06-04 01:49:01.451 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-06-04 01:49:01.453 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2024-06-04 01:49:01.455 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2024-06-04 01:49:01.457 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+2024-06-04 01:49:01.458 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2024-06-04 01:49:01.460 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+2024-06-04 01:49:01.461 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+2024-06-04 01:49:01.464 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+2024-06-04 01:49:02.203 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-04 01:49:02.238 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-04 01:49:02.239 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-04 01:49:02.239 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-04 01:49:02.240 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-04 01:49:02.252 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-04 01:49:02.253 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-04 01:49:02.259 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-04 01:49:02.272 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-04 01:49:02.272 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-04 01:49:02.279 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-04 01:49:02.285 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-04 01:49:03.304 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:562 - Save content types part
+2024-06-04 01:49:03.492 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:566 - Save package relationships
+2024-06-04 01:49:03.501 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'docProps/app.xml'
+2024-06-04 01:49:03.502 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'docProps/core.xml'
+2024-06-04 01:49:03.509 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart1.xml'
+2024-06-04 01:49:03.511 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart2.xml'
+2024-06-04 01:49:03.515 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart3.xml'
+2024-06-04 01:49:03.519 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart4.xml'
+2024-06-04 01:49:03.520 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart5.xml'
+2024-06-04 01:49:03.523 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart6.xml'
+2024-06-04 01:49:03.524 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart7.xml'
+2024-06-04 01:49:03.525 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart8.xml'
+2024-06-04 01:49:03.528 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart9.xml'
+2024-06-04 01:49:03.529 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart10.xml'
+2024-06-04 01:49:03.529 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing1.xml'
+2024-06-04 01:49:03.533 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing2.xml'
+2024-06-04 01:49:03.534 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing3.xml'
+2024-06-04 01:49:03.535 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing4.xml'
+2024-06-04 01:49:03.535 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing5.xml'
+2024-06-04 01:49:03.539 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing6.xml'
+2024-06-04 01:49:03.540 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing7.xml'
+2024-06-04 01:49:03.543 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing8.xml'
+2024-06-04 01:49:03.545 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing9.xml'
+2024-06-04 01:49:03.546 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/externalLinks/externalLink1.xml'
+2024-06-04 01:49:03.548 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings1.bin'
+2024-06-04 01:49:03.549 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings2.bin'
+2024-06-04 01:49:03.550 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings3.bin'
+2024-06-04 01:49:03.551 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings4.bin'
+2024-06-04 01:49:03.551 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings7.bin'
+2024-06-04 01:49:03.552 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/sharedStrings.xml'
+2024-06-04 01:49:03.553 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/styles.xml'
+2024-06-04 01:49:03.554 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/theme/theme1.xml'
+2024-06-04 01:49:03.555 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/workbook.xml'
+2024-06-04 01:49:03.569 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet1.xml'
+2024-06-04 01:49:03.571 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet2.xml'
+2024-06-04 01:49:03.575 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet3.xml'
+2024-06-04 01:49:03.578 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet4.xml'
+2024-06-04 01:49:03.581 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet8.xml'
+2024-06-04 02:21:30.144 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 02:21:30.147 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Successful login with valid credentials
+2024-06-04 02:21:30.149 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 02:21:51.059 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 02:21:51.274 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 02:21:51.275 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC01 - Log in with invalid email and invalid password
+2024-06-04 02:21:51.275 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 02:22:11.781 [main] DEBUG stepdefinitions.LoginSteps:57 - Email and password read from Narpos Test Users file
+2024-06-04 02:22:12.278 [main] DEBUG stepdefinitions.LoginSteps:63 - Username and password entered
+2024-06-04 02:22:13.516 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 02:22:13.688 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 02:22:13.688 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC02 - Log in with invalid email and valid password
+2024-06-04 02:22:13.688 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 02:22:28.590 [main] DEBUG stepdefinitions.LoginSteps:57 - Email and password read from Narpos Test Users file
+2024-06-04 02:22:29.028 [main] DEBUG stepdefinitions.LoginSteps:63 - Username and password entered
+2024-06-04 02:22:30.229 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 02:22:30.467 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 02:22:30.467 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC03 - Log in with valid email and invalid password
+2024-06-04 02:22:30.467 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 02:22:44.648 [main] DEBUG stepdefinitions.LoginSteps:57 - Email and password read from Narpos Test Users file
+2024-06-04 02:22:45.029 [main] DEBUG stepdefinitions.LoginSteps:63 - Username and password entered
+2024-06-04 02:22:46.287 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 02:22:46.489 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 02:22:46.489 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC04 - Log in with empty email and valid password
+2024-06-04 02:22:46.489 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 02:23:02.725 [main] DEBUG stepdefinitions.LoginSteps:57 - Email and password read from Narpos Test Users file
+2024-06-04 02:23:03.043 [main] DEBUG stepdefinitions.LoginSteps:63 - Username and password entered
+2024-06-04 02:23:03.227 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 02:23:03.394 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 02:23:03.395 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : TC05 - Log in with valid email and empty password
+2024-06-04 02:23:03.395 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 02:23:20.540 [main] DEBUG stepdefinitions.LoginSteps:57 - Email and password read from Narpos Test Users file
+2024-06-04 02:23:21.072 [main] DEBUG stepdefinitions.LoginSteps:63 - Username and password entered
+2024-06-04 02:23:41.269 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 02:23:41.484 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 02:23:41.485 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Remember Me button functionality
+2024-06-04 02:23:41.485 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 02:24:04.134 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 02:24:04.330 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 02:24:04.330 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Forgot Password functionality
+2024-06-04 02:24:04.330 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 02:24:26.810 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 02:24:26.980 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 02:24:26.980 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Masa işlemleri adımları
+2024-06-04 02:24:26.980 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 02:25:01.486 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 02:25:02.823 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart1.xml.rels
+2024-06-04 02:25:02.830 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart2.xml.rels
+2024-06-04 02:25:02.832 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart3.xml.rels
+2024-06-04 02:25:02.833 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart5.xml.rels
+2024-06-04 02:25:02.835 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/charts/_rels/chart8.xml.rels
+2024-06-04 02:25:02.837 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing1.xml.rels
+2024-06-04 02:25:02.839 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing5.xml.rels
+2024-06-04 02:25:02.841 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing7.xml.rels
+2024-06-04 02:25:02.842 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing8.xml.rels
+2024-06-04 02:25:02.844 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing10.xml.rels
+2024-06-04 02:25:02.846 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/drawings/_rels/drawing11.xml.rels
+2024-06-04 02:25:02.847 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/externalLinks/_rels/externalLink1.xml.rels
+2024-06-04 02:25:02.849 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-06-04 02:25:02.853 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-06-04 02:25:02.856 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2024-06-04 02:25:02.858 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2024-06-04 02:25:02.859 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+2024-06-04 02:25:02.861 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2024-06-04 02:25:02.863 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+2024-06-04 02:25:02.865 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+2024-06-04 02:25:02.866 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+2024-06-04 02:25:03.552 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-04 02:25:03.592 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-04 02:25:03.594 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-04 02:25:03.595 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-04 02:25:03.595 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-04 02:25:03.606 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-04 02:25:03.608 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-04 02:25:03.614 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-04 02:25:03.627 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+2024-06-04 02:25:03.628 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-04 02:25:03.636 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-04 02:25:03.642 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-06-04 02:25:04.668 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:562 - Save content types part
+2024-06-04 02:25:04.863 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:566 - Save package relationships
+2024-06-04 02:25:04.871 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'docProps/app.xml'
+2024-06-04 02:25:04.872 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'docProps/core.xml'
+2024-06-04 02:25:04.891 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart1.xml'
+2024-06-04 02:25:04.894 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart2.xml'
+2024-06-04 02:25:04.897 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart3.xml'
+2024-06-04 02:25:04.900 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart4.xml'
+2024-06-04 02:25:04.902 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart5.xml'
+2024-06-04 02:25:04.904 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart6.xml'
+2024-06-04 02:25:04.905 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart7.xml'
+2024-06-04 02:25:04.906 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart8.xml'
+2024-06-04 02:25:04.907 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart9.xml'
+2024-06-04 02:25:04.909 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/charts/chart10.xml'
+2024-06-04 02:25:04.910 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing1.xml'
+2024-06-04 02:25:04.913 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing2.xml'
+2024-06-04 02:25:04.914 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing3.xml'
+2024-06-04 02:25:04.915 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing4.xml'
+2024-06-04 02:25:04.915 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing5.xml'
+2024-06-04 02:25:04.917 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing6.xml'
+2024-06-04 02:25:04.918 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing7.xml'
+2024-06-04 02:25:04.921 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing8.xml'
+2024-06-04 02:25:04.922 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/drawings/drawing9.xml'
+2024-06-04 02:25:04.923 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/externalLinks/externalLink1.xml'
+2024-06-04 02:25:04.925 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings1.bin'
+2024-06-04 02:25:04.925 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings2.bin'
+2024-06-04 02:25:04.925 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings3.bin'
+2024-06-04 02:25:04.926 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings4.bin'
+2024-06-04 02:25:04.927 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/printerSettings/printerSettings7.bin'
+2024-06-04 02:25:04.927 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/sharedStrings.xml'
+2024-06-04 02:25:04.929 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/styles.xml'
+2024-06-04 02:25:04.930 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/theme/theme1.xml'
+2024-06-04 02:25:04.930 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/workbook.xml'
+2024-06-04 02:25:04.933 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet1.xml'
+2024-06-04 02:25:04.936 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet2.xml'
+2024-06-04 02:25:04.939 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet3.xml'
+2024-06-04 02:25:04.942 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet4.xml'
+2024-06-04 02:25:04.945 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet8.xml'
