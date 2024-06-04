@@ -27,7 +27,7 @@ public class Hooks {
 		LOGGER.info("---------------Test Automation has started------------");
 		LOGGER.info("Test Scenario : " + scenario.getName());
 		LOGGER.info("Browser type ----> " + ConfigurationManager.getProperty("browser"));
-		DriverManager.getDriver();
+//		DriverManager.getDriver();
 	}
 
 	/**

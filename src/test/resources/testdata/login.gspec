@@ -1,0 +1,72 @@
+sections:
+  - name: login_form
+    locator: css selector for login form container (e.g., div.login-form)
+    elements:
+      - name: email_field
+        locator:input[formcontrolname='userName']
+        properties:
+          width: 200px  # Elementin genişliği
+          height: 40px  # Elementin yüksekliği
+          top: 100px  # Elementin üst kenarı sayfanın üstünden olan mesafe
+          left: 50px  # Elementin sol kenarı sayfanın solundan olan mesafe
+          font-size: 16px  # Yazı tipi boyutu
+          font-weight: normal  # Yazı tipi kalınlığı
+
+      - name: password_field
+        locator:input[formcontrolname='password']
+        properties:
+          width: 200px
+          height: 40px
+          top: 150px
+          left: 50px
+          font-size: 16px
+          font-weight: normal
+
+      - name: giris_yap_button
+        locator:button.sign-in
+        properties:
+          width: 100px
+          height: 40px
+          top: 200px
+          left: 150px
+          font-size: 18px
+          font-weight: bold
+          background-color: #007bff
+
+      - name: beni_hatirla_checkbox
+        locator:checkbox#cbx-12
+        properties:
+          top: 250px
+          left: 50px
+
+      - name: sifremi_unuttum_button
+        locator:button[text*='Şifremi Unuttum']
+        properties:
+          top: 250px
+          left: 150px
+          font-size: 14px
+          color: #18a68b
+
+  - name: error_messages
+    locator:div.error-messages
+    elements:
+      - name: email_error_message
+        locator:span[contains(text(),'Kullanıcı adı zorunludur')]
+        properties:
+          color: #dc3545  # Hata mesajının rengi
+          font-size: 14px
+          font-weight: bold
+
+      - name: password_error_message
+        locator:div[id='pn_id_2_content'] span[class='error-styles ng-star-inserted']
+        properties:
+          color: #dc3545
+          font-size: 14px
+          font-weight: bold
+
+      - name: generic_error_message
+        locator:div.swal2-x-mark
+        properties:
+          color: #dc3545
+          font-size: 16px
+          font-weight: bold

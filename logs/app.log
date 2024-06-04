@@ -1239,3 +1239,190 @@
 2024-06-04 02:25:04.939 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet3.xml'
 2024-06-04 02:25:04.942 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet4.xml'
 2024-06-04 02:25:04.945 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage:580 - Save part 'xl/worksheets/sheet8.xml'
+2024-06-04 03:47:24.000 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 03:47:24.004 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 03:47:24.004 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 03:47:45.640 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 03:47:45.643 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 03:47:45.644 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 03:48:04.969 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 03:48:05.130 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 03:48:05.130 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 03:48:05.131 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 03:48:19.320 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 03:48:19.474 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 03:48:19.474 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 03:48:19.475 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 03:48:35.626 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 03:51:06.032 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 03:51:06.036 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 03:51:06.038 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 03:51:24.824 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 03:51:24.997 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 03:51:24.997 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 03:51:24.998 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 03:51:45.065 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 03:51:45.220 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 03:51:45.221 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 03:51:45.221 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 03:52:55.529 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 03:52:55.533 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 03:52:55.535 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 03:52:59.821 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 03:52:59.821 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 03:52:59.822 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 03:53:00.934 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 03:53:00.935 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 03:53:00.935 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 03:53:18.306 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 03:53:18.311 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 03:53:18.312 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 03:53:52.631 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 03:53:52.835 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 03:53:52.835 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 03:53:52.836 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 03:54:27.987 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 03:54:28.186 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 03:54:28.186 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 03:54:28.187 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 03:55:01.560 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 04:08:05.162 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 04:08:05.166 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 04:08:05.167 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 04:08:19.936 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 04:08:20.136 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 04:08:20.137 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 04:08:20.137 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 04:08:22.624 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 04:08:22.795 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 04:08:22.796 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 04:08:22.796 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 04:08:38.590 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 04:12:56.945 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 04:12:56.948 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 04:12:56.950 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 04:13:12.999 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 04:13:13.189 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 04:13:13.189 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 04:13:13.191 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 04:13:31.565 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 04:13:31.720 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 04:13:31.720 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 04:13:31.720 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 04:15:01.632 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 04:15:01.636 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 04:15:01.638 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 04:15:18.181 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 04:15:18.185 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 04:15:18.187 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 04:15:36.660 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 04:15:36.842 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 04:15:36.842 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 04:15:36.843 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 04:15:54.414 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 04:15:54.567 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 04:15:54.568 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 04:15:54.568 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 04:16:12.939 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 09:49:32.932 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 09:49:32.937 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 09:49:32.940 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 09:49:51.322 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 09:49:51.508 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 09:49:51.509 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 09:49:51.509 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 09:50:09.587 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 09:50:09.776 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 09:50:09.776 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 09:50:09.778 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:03:44.232 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:03:44.236 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:03:44.237 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:04:03.447 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 14:04:03.636 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:04:03.636 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:04:03.637 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:04:23.045 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 14:04:23.223 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:04:23.223 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:04:23.224 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:04:45.665 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 14:05:42.456 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:05:42.459 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:05:42.460 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:07:44.777 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 14:07:45.050 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:07:45.051 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:07:45.052 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:08:27.447 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 14:08:27.676 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:08:27.676 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:08:27.676 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:08:53.362 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 14:10:41.806 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:10:41.810 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:10:41.812 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:11:02.843 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 14:11:03.070 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:11:03.070 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:11:03.071 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:11:08.029 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:11:08.029 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:11:08.029 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:11:44.187 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:11:44.192 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:11:44.193 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:12:06.654 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 14:12:06.902 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:12:06.902 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:12:06.903 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:12:27.937 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 14:12:28.208 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:12:28.208 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:12:28.209 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:12:51.897 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 14:13:45.102 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:13:45.106 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:13:45.108 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:14:12.173 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 14:14:12.428 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:14:12.428 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:14:12.429 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:14:30.675 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 14:14:30.884 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:14:30.884 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:14:30.885 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:14:47.158 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 14:25:00.357 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:25:00.362 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:25:00.363 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:25:50.718 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 14:25:50.986 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:25:50.987 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:25:50.987 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:26:42.024 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 14:26:42.240 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:26:42.241 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:26:42.241 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:28:10.655 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 14:28:55.093 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:28:55.098 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:28:55.100 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:29:39.382 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 14:29:39.637 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:29:39.638 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:29:39.638 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:29:44.343 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:29:44.345 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:29:44.346 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:34:01.673 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:34:01.677 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:34:01.680 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:34:26.515 [main] ERROR stepdefinitions.hook.Hooks:46 - Test scenario ->>> ->>>>> Failed Farklı cihazlarda responsivlik testi
+2024-06-04 14:34:26.745 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:34:26.747 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:34:26.748 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-06-04 14:35:54.272 [main] INFO  stepdefinitions.hook.Hooks:49 - Test scenario -->>> ->>>> Passed
+2024-06-04 14:35:54.357 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-06-04 14:35:54.358 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Farklı cihazlarda responsivlik testi
+2024-06-04 14:35:54.358 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
